@@ -1,0 +1,86 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03<dataInicio>
+        <dataFim>20/04<dataFim>
+        <signoNome>Áries<signoNome>
+        <significadoSigno>Corajoso, determinado e cheio de energia.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>20/04<dataInicio>
+        <dataFim>20/05<dataFim>
+        <signoNome>Touro<signoNome>
+        <significadoSigno>Paciente, leal e persistente.<significadoSigno>
+    </signo>
+
+     <signo>
+        <dataInicio>21/05<dataInicio>
+        <dataFim>20/06<dataFim>
+        <signoNome>Gêmeos<signoNome>
+        <significadoSigno>Curioso, inteligente e muito sociável.<significadoSigno>
+    </signo>
+    
+     <signo>
+        <dataInicio>21/06<dataInicio>
+        <dataFim>22/07<dataFim>
+        <signoNome>Câncer<signoNome>
+        <significadoSigno>Sensível, cuidadoso e apegado à família.<significadoSigno>
+    </signo>
+
+     <signo>
+        <dataInicio>23/07<dataInicio>
+        <dataFim>22/08<dataFim>
+        <signoNome>Leão<signoNome>
+        <significadoSigno>Curioso, inteligente e muito sociável.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08<dataInicio>
+        <dataFim>22/09<dataFim>
+        <signoNome>Virgem<signoNome>
+        <significadoSigno>Organizado, prático e responsável.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09<dataInicio>
+        <dataFim>22/10<dataFim>
+        <signoNome>Libra<signoNome>
+        <significadoSigno>Justo, equilibrado e com bom gosto estético.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10<dataInicio>
+        <dataFim>21/11<dataFim>
+        <signoNome>Escorpião<signoNome>
+        <significadoSigno>Intenso, determinado e apaixonado.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11<dataInicio>
+        <dataFim>21/12<dataFim>
+        <signoNome>Sagitário<signoNome>
+        <significadoSigno>Aventureiro, otimista e super espontâneo.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12<dataInicio>
+        <dataFim>19/01<dataFim>
+        <signoNome>Capricórnio<signoNome>
+        <significadoSigno>Ambicioso, disciplinado e muito responsável.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>20/01<dataInicio>
+        <dataFim>18/02<dataFim>
+        <signoNome>Aquário<signoNome>
+        <significadoSigno>Independente, tem originalidade e pensamento fora da caixa.<significadoSigno>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02<dataInicio>
+        <dataFim>20/03<dataFim>
+        <signoNome>Peixes<signoNome>
+        <significadoSigno>Sensível, criativo e empático.<significadoSigno>
+    </signo>
+</signos>

@@ -1,0 +1,27 @@
+
+body {
+    background: linear-gradient(135deg, #e8eaff, #f8e8ff);
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.formulario {
+    max-width: 500px;
+    border: none;
+    border-radius: 16px;
+}
+
+h1 {
+    color: #513a8b;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #6846c6;
+    border-color: #6846c6;
+}
+
+.btn-primary:hover {
+    background-color: #50329e;
+    border-color: #50329e;
+}
